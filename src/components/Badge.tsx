@@ -18,10 +18,8 @@ export const badges = {
   256: "HypesquadBalance.png",
   512: "EarlySupporter.png",
   16384: "BugHunter2.png",
-  // 65536: "VerifiedBot",
   121072: "VerifiedDeveloper.png",
   262144: "ModeratorProgramsAlumi.png",
-  // 524288: "BotInteractions",
   4194304: "ActiveDeveloper.svg",
 } as const;
 
